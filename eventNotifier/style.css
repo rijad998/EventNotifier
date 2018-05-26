@@ -1,0 +1,58 @@
+*:hover,
+*:active,
+*:focus{
+	text-decoration: none;
+}
+.sidebar-navigation{
+    background-color: #183c63;
+    position: relative;
+    height: 100%;
+    color: #fff;
+}
+.logo{
+	text-align: center;
+	padding: 5px 7px;
+}
+.logo img{
+	width: 200px; 
+	height: auto;
+}
+
+.sidebar-navigation ul{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+.sidebar-navigation ul li,
+.sidebar-navigation ul a li{
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 8px;
+	font-size: 15px;
+	font-weight: 600;
+	border: 1px solid transparent;
+	transition: 0.25s linear;
+}
+.sidebar-navigation ul li:hover,
+.sidebar-navigation ul a li:hover{
+	text-decoration: none;
+	border-color: #fff;
+}
+.modal input,
+.modal label{
+	width: 100%;
+	padding: 5px;
+}
+.modal .aq1{
+	margin: 5px 0px;
+}
+
+.ajax-response{
+	width: 100%;
+	text-align: center;
+	font-weight: 600;
+	background: green;
+	color: #fff;
+	margin: 0px;
+	padding: 0px !important;
+}
