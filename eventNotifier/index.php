@@ -1,5 +1,5 @@
 <?php
 
 
-echo "armin";
+echo "rijad";
 ?>
