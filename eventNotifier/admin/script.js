@@ -72,7 +72,7 @@ function updateShop(id){
 	        coffeeEmail : email
 	    },
 	   success:function(data){
-	       console.log("APDEJTOVANO DEDEEEEEEEEEEEEE MIIIII");
+	       console.log("UPDATEOVANOOOO");
 	   }
 	});*/
 }
